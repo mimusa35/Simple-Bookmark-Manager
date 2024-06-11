@@ -1,2 +1,2 @@
 # Simple-Bookmark-Manager
-Its a simple Web Page using HTML, CSS
+It's a simple Web Page "booky" using HTML, CSS.
